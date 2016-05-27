@@ -1,2 +1,5 @@
 file
+<<<<<<< HEAD
 test1
+=======
+>>>>>>> hello/master
